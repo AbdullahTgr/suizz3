@@ -1,5 +1,34 @@
-
 <header>
+  <style>
+@media only screen and (min-width: 250px) {
+  .imglogo{
+      width: 50%;
+    }
+}
+@media only screen and (min-width: 480px) {
+  .imglogo{
+      width: 60%;
+    }
+}
+@media screen and (min-width: 769px) {
+  .imglogo{
+      width: 90%;
+    }
+}
+
+@media screen and (min-width: 920px)  { 
+  .imglogo{
+      width: 100%;
+    }
+}
+@media screen and (min-width: 1200px)  { 
+  .imglogo{
+      width: 100%;
+    }
+}
+
+
+  </style>
   <!-- Header Start -->
  <div class="header-area header-transparrent ">
       <div class="main-header header-sticky">
@@ -8,7 +37,7 @@
                   <!-- Logo -->
                   <div class="col-xl-2 col-lg-2 col-md-2">
                       <div class="logo">
-                          <a href="/"><img     width="100%" src="assets/img/logo/logo.png" alt=""></a>
+                          <a href="/"><img  class="imglogo"  src="assets/img/logo/logo.png" alt=""></a>
                       </div>
                   </div>
                   <div class="col-xl-10 col-lg-10 col-md-10">
