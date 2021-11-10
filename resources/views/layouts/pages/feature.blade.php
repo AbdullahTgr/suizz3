@@ -70,7 +70,7 @@
         </div>
         <!-- Shpe -->
         <div class="features-shpae features-shpae2 d-none d-lg-block">
-            <img src="assets/img/shape/best-features.png" alt="">
+            <img style="margin-left: 10%;" width="25%" src="assets/img/shape/best-features.png" alt="">
         </div>
     </section>
     <!-- Best Features End -->

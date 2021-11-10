@@ -28,21 +28,21 @@
                     <div class="row d-flex align-items-center">
                         <div class="col-lg-6 col-md-9 ">
                             <div class="hero__caption">
-                                <span data-animation="fadeInUp" data-delay=".4s">App Landing Page</span>
-                                <h1 data-animation="fadeInUp" data-delay=".6s">Get things done<br>with Appco</h1>
+                                
+                                <h1 data-animation="fadeInUp" data-delay=".6s">Get things done<br>with Suizz</h1>
                                 <p data-animation="fadeInUp" data-delay=".8s">Dorem ipsum dolor sitamet, consectetur adipiscing elit, sed do eiusm tempor incididunt ulabore et dolore magna aliqua.</p>
                                 <!-- Slider btn -->
                                <div class="slider-btns">
                                     <!-- Hero-btn -->
                                     <a data-animation="fadeInLeft" data-delay="1.0s" href="industries.html" class="btn radius-btn">Download</a>
                                     <!-- Video Btn -->
-                                    <a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn ani-btn" href="https://www.youtube.com/watch?v=1aP-TXUpNoU"><i class="fas fa-play"></i></a>
+                                    <a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn ani-btn" href=""><i class="fas fa-play"></i></a>
                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="hero__img d-none d-lg-block f-right" data-animation="fadeInRight" data-delay="1s">
-                                <img src="assets/img/hero/hero_right.png" alt="">
+                                <img width="100%" src="assets/img/hero/hero_right.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -54,20 +54,20 @@
                         <div class="col-lg-6 col-md-9 ">
                             <div class="hero__caption">
                                 <span data-animation="fadeInUp" data-delay=".4s">App Landing Page</span>
-                                <h1 data-animation="fadeInUp" data-delay=".6s">Get things done<br>with Appco</h1>
+                                <h1 data-animation="fadeInUp" data-delay=".6s">Get things done<br>with Suizz</h1>
                                 <p data-animation="fadeInUp" data-delay=".8s">Dorem ipsum dolor sitamet, consectetur adipiscing elit, sed do eiusm tempor incididunt ulabore et dolore magna aliqua.</p>
                                 <!-- Slider btn -->
                                <div class="slider-btns">
                                     <!-- Hero-btn -->
                                     <a data-animation="fadeInLeft" data-delay="1.0s" href="industries.html" class="btn radius-btn">Download</a>
                                     <!-- Video Btn -->
-                                    <a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn ani-btn" href="https://www.youtube.com/watch?v=1aP-TXUpNoU"><i class="fas fa-play"></i></a>
+                                    <a data-animation="fadeInRight" data-delay="1.0s" class="popup-video video-btn ani-btn" href=""><i class="fas fa-play"></i></a>
                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="hero__img d-none d-lg-block f-right" data-animation="fadeInRight" data-delay="1s">
-                                <img src="assets/img/hero/hero_right.png" alt="">
+                                <img width="100%" src="assets/img/hero/hero_right.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
         </div>
         <!-- Shpe -->
         <div class="features-shpae d-none d-lg-block">
-            <img src="assets/img/shape/best-features.png" alt="">
+             <img style="margin-left: 10%;" width="25%" src="assets/img/shape/best-features.png" alt="">
         </div>
     </section>
     <!-- Best Features End -->
@@ -152,7 +152,7 @@
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-tittle text-center">
-                        <h2>How Can We HelpYour<br>with Appco!</h2>
+                        <h2>How Can We HelpYour<br>with Suizz!</h2>
                     </div>
                 </div>
             </div>
@@ -203,26 +203,26 @@
                 <div class="col-xl-4 col-lg-4 col-md-8">
                     <div class="single-cases-info mb-30">
                         <h3>Applic Apps<br> Screenshot</h3>
-                        <p>Lorem ipsum dolor sit amet, consecadipiscing elit, sed do eiusmod tempor incididunt ut ore et dolore magna aliqua. Quis ipsum suspendisse gravida. Risus commodo viverra maecenasan lacus vel facilisis. </p>
+                        <p>Suizz ipsum dolor sit amet, consecadipiscing elit, sed do eiusmod tempor incididunt ut ore et dolore magna aliqua. Quis ipsum suspendisse gravida. Risus commodo viverra maecenasan lacus vel facilisis. </p>
                     </div>
                 </div>
                 <!-- OwL -->
                 <div class="col-xl-8 col-lg-8 col-md-col-md-7">
                     <div class="app-active owl-carousel"> 
                         <div class="single-cases-img">
-                            <img src="assets/img/gallery/App1.png" alt="">
+                             <img  width="100%"src="assets/img/gallery/App1.png" alt="">
                         </div>
                         <div class="single-cases-img">
-                            <img src="assets/img/gallery/App2.png" alt="">
+                             <img  width="100%"src="assets/img/gallery/App2.png" alt="">
                         </div>
                         <div class="single-cases-img">
-                            <img src="assets/img/gallery/App3.png" alt="">
+                             <img  width="100%"src="assets/img/gallery/App3.png" alt="">
                         </div>
                         <div class="single-cases-img">
-                            <img src="assets/img/gallery/App2.png" alt="">
+                             <img  width="100%"src="assets/img/gallery/App2.png" alt=""> 
                         </div>
                         <div class="single-cases-img">
-                            <img src="assets/img/gallery/App1.png" alt="">
+                             <img  width="100%"src="assets/img/gallery/App1.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -244,64 +244,7 @@
         </div>
     </section>
     <!-- Best Pricing End -->
-    <!-- Pricing Card Start -->
-    <div class="pricing-card-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-card text-center mb-30">
-                        <div class="card-top">
-                            <span>2 Years</span>
-                            <h4>$05 <span>/ month</span></h4>
-                        </div>
-                        <div class="card-bottom">
-                            <ul>
-                                <li>Increase traffic 50%</li>
-                                <li>E-mail support</li>
-                                <li>10 Free Optimization</li>
-                                <li>24/7  support</li>
-                            </ul>
-                            <a href="services.html" class="btn card-btn1">Get Started</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-card  text-center mb-30">
-                        <div class="card-top">
-                            <span>2 Years</span>
-                            <h4>$05 <span>/ month</span></h4>
-                        </div>
-                        <div class="card-bottom">
-                            <ul>
-                                <li>Increase traffic 50%</li>
-                                <li>E-mail support</li>
-                                <li>10 Free Optimization</li>
-                                <li>24/7  support</li>
-                            </ul>
-                            <a href="services.html" class="btn card-btn1">Get Started</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-card text-center mb-30">
-                        <div class="card-top">
-                            <span>2 Years</span>
-                            <h4>$05 <span>/ month</span></h4>
-                        </div>
-                        <div class="card-bottom">
-                            <ul>
-                                <li>Increase traffic 50%</li>
-                                <li>E-mail support</li>
-                                <li>10 Free Optimization</li>
-                                <li>24/7  support</li>
-                            </ul>
-                            <a href="services.html" class="btn card-btn1">Get Started</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
     <!-- Pricing Card End -->
     <!-- Our Customer Start -->
     <div class="our-customer section-padd-top30">

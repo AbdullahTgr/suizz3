@@ -9,11 +9,11 @@
                       <div class="single-footer-caption mb-30">
                            <!-- logo -->
                           <div class="footer-logo">
-                              <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                              <a href="index.html"><img     width="100%" src="assets/img/logo/logo2_footer.png" alt=""></a>
                           </div>
                           <div class="footer-tittle">
                               <div class="footer-pera">
-                                  <p class="info1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
+                                  <p class="info1">Suizz ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
                              </div>
                           </div>
                       </div>
@@ -56,7 +56,7 @@
                           <!-- Form -->
                           <div class="footer-form">
                               <div id="mc_embed_signup">
-                                  <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
+                                  <form target="_blank" action="" method="get" class="subscribe_form relative mail_part" novalidate="true">
                                       <input type="email" name="EMAIL" id="newsletter-form-email" placeholder=" Email Address " class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
                                       <div class="form-icon">
                                           <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm"><img src="assets/img/shape/form_icon.png" alt=""></button>
@@ -73,9 +73,9 @@
              <div class="row align-items-center">
                  <div class="col-xl-12 ">
                      <div class="footer-copy-right">
-                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                        <p><!-- Link back to Suizz can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="" target="_blank">Abdullah</a>
+<!-- Link back to Suizz can't be removed. Template is licensed under CC BY 3.0. --></p>
                      </div>
                  </div>
              </div>

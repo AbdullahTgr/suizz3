@@ -13,7 +13,7 @@
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-tittle text-center">
-                        <h2>How Can We HelpYour<br>with Appco!</h2>
+                        <h2>How Can We HelpYour<br>with Suizz!</h2>
                     </div>
                 </div>
             </div>
